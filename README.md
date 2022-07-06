@@ -1,4 +1,4 @@
-# Metodologie-di-Programmazione-2016-17 ![Alt text](/src/assets/beer.png)
+# Metodologie-di-Programmazione-2016-17 ![Alt text](/logo.png)
 
 Welcome to Programming Methodologies, where for the first time I have in the world of programming.
 
